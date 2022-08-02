@@ -1,0 +1,7 @@
+Notes for pathway forward
+
+1. barebones HTML
+2. Add css
+3. Add js
+4. Get a framework (flask?) to attempt hosting
+5. Working with docker
