@@ -3,5 +3,11 @@ Notes for pathway forward
 1. barebones HTML
 2. Add css
 3. Add js
-4. Get a framework (flask?) to attempt hosting
+4. Get a framework (flask?) to attempt hosting -> potentially do in python
 5. Working with docker
+
+What my page currently includes
+
+- head & body
+- Use of headings tags (h1,h2,h3...)
+- Use of paragraph tags
