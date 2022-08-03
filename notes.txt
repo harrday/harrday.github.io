@@ -8,11 +8,23 @@ Notes for pathway forward
 
 What my page currently includes
 
+BASIC:
+
 - head & body
 - Use of headings tags (h1,h2,h3...)
 - Use of paragraph tags
 - Use of links
+- Use of Buttons
 
+ATTRIBUTES:
+
+- title
+- href
+- width/height attr
+- alt attr
+ 
+... will stop listing the rest, just going down examples in 
+https://www.w3schools.com/html/html_examples.asp
 
 Misc Notes
 - Really not very responsive...
