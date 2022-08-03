@@ -11,3 +11,8 @@ What my page currently includes
 - head & body
 - Use of headings tags (h1,h2,h3...)
 - Use of paragraph tags
+- Use of links
+
+
+Misc Notes
+- Really not very responsive...
